@@ -10,6 +10,7 @@ public class OrderRunner2 implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
+
         System.out.println("The OrderRunner2 start to initialize ...");
     }
 }
